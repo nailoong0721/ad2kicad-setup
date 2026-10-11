@@ -1,0 +1,187 @@
+[
+  {
+    "file": "CODEX-AD2KICAD-TRANSFER.zh-CN.md",
+    "bytes": 7423,
+    "sha256": "e8e7ba532b5efe0aaf767a6a326a8799d39eb8a28b1d444bab5d757c0c7e8a81"
+  },
+  {
+    "file": "CONFIGURATION-RECORD-TRANSFER.zh-CN.md",
+    "bytes": 12532,
+    "sha256": "64decfed602c3e82b56b2aed267ada9b5b2403e654305be94d314a316d0e180c"
+  },
+  {
+    "file": "Open-AD2KiCad.ps1",
+    "bytes": 1150,
+    "sha256": "4e3426fa2810eff2f41999fd75a5753d7e0a5210cd82b085b85cdf799d55f923"
+  },
+  {
+    "file": "README-TRANSFER.zh-CN.md",
+    "bytes": 15971,
+    "sha256": "fde04a9c908f44490e4713fabfde21e5065f482b9bcdb60df6892c4b7f4aa3bb"
+  },
+  {
+    "file": "RELEASE-NOTES-20260929-clean-root.zh-CN.md",
+    "bytes": 5390,
+    "sha256": "399461f3b87b203056bd8a99f45a0a1b0d21b0d5975c69cd8a37737f85bf561e"
+  },
+  {
+    "file": "RELEASE-NOTES-20260929-easyki.zh-CN.md",
+    "bytes": 6714,
+    "sha256": "efe31c9089b7c3f8d7c8625fa8eb86787b92a5227f0c8cf4a1f4084c7e475df8"
+  },
+  {
+    "file": "RELEASE-NOTES-20260929-node-wizard.zh-CN.md",
+    "bytes": 6026,
+    "sha256": "16fda8c02d493ba235d513ba02e1d658303319d9dac8654cf4ae71b07892d91d"
+  },
+  {
+    "file": "RELEASE-NOTES-20260929.zh-CN.md",
+    "bytes": 5246,
+    "sha256": "8e0360082a90ffc3546d4213b353bf91c1d0ce990992c85e94a852ef097c3f2f"
+  },
+  {
+    "file": "Setup-AD2KiCad.cmd",
+    "bytes": 262,
+    "sha256": "683a0c2e5470307d8be6bf7800855ab6e8103881fc6f8c3f7388358069da6c10"
+  },
+  {
+    "file": "Setup-AD2KiCad.ps1",
+    "bytes": 7408,
+    "sha256": "413512785b04e15055c142e0f004307dd856e0063ded12f51cbb2318e78ef123"
+  },
+  {
+    "file": "Setup-AD2KiCadEnvironment.ps1",
+    "bytes": 7024,
+    "sha256": "37aedd7eba95a15ac0b2445ddea32cbdcb726ad56a46ea4e7693fc69679bd7c3"
+  },
+  {
+    "file": "Setup-AD2KiCadUi.ps1",
+    "bytes": 12902,
+    "sha256": "d273f646efe4c00c2557276673b3da0b647082a5768b0e399ba575c6383f7add"
+  },
+  {
+    "file": "Test-AD2KiCadFrontend.ps1",
+    "bytes": 17183,
+    "sha256": "ef8defbb4997e033635c0d608b54497f4e5a0beb710374ed87bcd2972d03b0a8"
+  },
+  {
+    "file": "easyki_setup.py",
+    "bytes": 19969,
+    "sha256": "90559bb2337b3fe84e0598dcd58412c946e0a5a2183de710a7aace32fed5484a"
+  },
+  {
+    "file": "environment_setup.py",
+    "bytes": 31072,
+    "sha256": "30a221b927cd25499be56f282346f1f5aad749e24af8238f5f429ad4a8d15d24"
+  },
+  {
+    "file": "extract_footprints.py",
+    "bytes": 27760,
+    "sha256": "0aa2f7b087e280d125353e3eb3735cbda527b62d041c1c5ff7e2ee3f078ba02c"
+  },
+  {
+    "file": "index_footprints.py",
+    "bytes": 5325,
+    "sha256": "0d1f7d51dd073a41a50c1bb07e5be3c59775425916c73e54cbed8de6c96fc1a5"
+  },
+  {
+    "file": "mcp_probe.py",
+    "bytes": 6662,
+    "sha256": "aa1757e7bb83ed74e6206a40888c5945e3b11470ca17e7790a15fc162b69d29f"
+  },
+  {
+    "file": "migrate_v1.py",
+    "bytes": 15504,
+    "sha256": "589c5c28dbf92e3489d28b2c5c6a41ffed2122af4f5563dd937ee27253a55f2f"
+  },
+  {
+    "file": "model_assets.py",
+    "bytes": 14967,
+    "sha256": "e4dd37ec54027dd6add02fd71f8531f196ef0912b646dcf5ce9127ea4510d4a2"
+  },
+  {
+    "file": "netlist_compat.py",
+    "bytes": 1325,
+    "sha256": "b11f0fce84324b860a2b3520f5e5e787712d88812a5023dd37b296d554d79960"
+  },
+  {
+    "file": "node_setup.py",
+    "bytes": 21050,
+    "sha256": "b32c0046c5f0943991b8716ebd566d33228e8a192d9e731c1b8b7ead86b20411"
+  },
+  {
+    "file": "organize_project.py",
+    "bytes": 46456,
+    "sha256": "2dd15db32ad916faae91ef1cfcf9276666d636c757b77d06c59063055c1613a6"
+  },
+  {
+    "file": "project_artifacts.py",
+    "bytes": 6617,
+    "sha256": "181ed8160408bbadd1393dc933b123eb039af5ecdb174984bdc53f17ba785ee5"
+  },
+  {
+    "file": "project_session.py",
+    "bytes": 13534,
+    "sha256": "82256332fd514d701ba29741b0f68930c57bb0301384203737ef5be01fa4aecb"
+  },
+  {
+    "file": "recover_project.py",
+    "bytes": 15510,
+    "sha256": "816081b47e2808001806af3eb45414147bccc53d65d48e73d2787bd50573175b"
+  },
+  {
+    "file": "sexpr.py",
+    "bytes": 2668,
+    "sha256": "a06a67255ebd021b8539052648433fc788a5f8a2191003b5fbe97663742770f5"
+  },
+  {
+    "file": "source_setup.py",
+    "bytes": 14965,
+    "sha256": "e9d2415e09a1e03acf7f18a57984725ab5eedc79dd0dd722f499f9444d17b73e"
+  },
+  {
+    "file": "test_artifacts.py",
+    "bytes": 4431,
+    "sha256": "d450cf7ebbde9070605f55ac51a2ffe0d3453a4ad9ceb0d1124ed337c0a3ae2e"
+  },
+  {
+    "file": "test_compatibility.py",
+    "bytes": 2915,
+    "sha256": "72bf5997994a22b44f105ee809509c7f6e65e4145dec84f23e84022c8a76c1e1"
+  },
+  {
+    "file": "test_environment_preflight.py",
+    "bytes": 10919,
+    "sha256": "eafcef6d08f3e68be931c9acdf5f47a4d6ac1e3c55b22c1425c94307c28fde84"
+  },
+  {
+    "file": "test_mcp_registration.py",
+    "bytes": 7457,
+    "sha256": "bed42d75c8d8bf058f8a78d2a8fa9c51d6f7f51c6db3849c3591456af7d6757c"
+  },
+  {
+    "file": "test_node_setup.py",
+    "bytes": 15663,
+    "sha256": "f2ac99049556253b0b5f3d9d1d134b08f2ea69736d79730682a0370946944c6b"
+  },
+  {
+    "file": "test_source_setup.py",
+    "bytes": 12560,
+    "sha256": "f9d67ca2c199c3f969e62ae4e01b007b9003480e1b3409f0d5320eb663904a52"
+  },
+  {
+    "file": "test_tool_setup.py",
+    "bytes": 6642,
+    "sha256": "c74989ac14ba3471987e3e5432e20d2a5379b25a1bbf7ac33a35917b8acb78fc"
+  },
+  {
+    "file": "tool_locations.py",
+    "bytes": 29522,
+    "sha256": "f8d3e84a4cd080631b4d11802089271d586a4777a4429c316d9460b57515dd57"
+  },
+  {
+    "file": "verify_native_board.py",
+    "bytes": 2832,
+    "sha256": "67d20d74089c4b3bc6fe58c9ad9507ff9b084a046c3806914ec764613cf196fa"
+  }
+]
